@@ -1,0 +1,10 @@
+samriddhi,600
+swastik,300
+bmc,10
+kmc,2
+llc,2
+uu,3
+ll,2
+lll,2
+pop,222
+lla,1
